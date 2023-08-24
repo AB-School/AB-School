@@ -1,4 +1,6 @@
 ### Hi there 👋, my name is Aiden
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCRurG_0Jjvhhd0c3BnAE4VRIEagOU9ZOmQ&usqp=CAU)
+
 👋 Hey! I am going into my sophomore year, I am starting to learn how to code some basic stuff and I hope to learn more!
 
 Skills: Python
@@ -10,3 +12,4 @@ Skills: Python
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AB_School)  
+
