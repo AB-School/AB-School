@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Aiden
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCRurG_0Jjvhhd0c3BnAE4VRIEagOU9ZOmQ&usqp=CAU)
+
+### Hi there 👋, my name is Aiden
 
 👋 Hey! I am going into my sophomore year, I am starting to learn how to code some basic stuff and I hope to learn more!
 
